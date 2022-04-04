@@ -11,7 +11,7 @@
     <groupId>cat.itb.projecte1</groupId>
     <artifactId>apiusuaris</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>apiusuaris</name>
+    <name>apipeliculas</name>
     <description>API REST per gestionar peliculas</description>
     <!--    <properties>-->
     <!--        <java.version>11</java.version>-->
